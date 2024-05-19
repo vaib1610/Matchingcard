@@ -1,0 +1,16 @@
+{
+    "cards": 
+      [
+        {  "fruit": "pear", "icon": "🍐", "letter": "P" },
+        {  "fruit": "orange", "icon": "🍊", "letter": "O" },
+        {  "fruit": "apple", "icon": "🍎", "letter": "A" },
+        { "fruit": "cherries", "icon": "🍒", "letter": "C" },
+        {  "fruit": "mango", "icon": "🥭", "letter": "M" },
+        {  "fruit": "watermelon", "icon": "🍉", "letter": "W" },
+        {  "fruit": "grape", "icon": "🍇", "letter": "G" },
+        {  "fruit": "banana", "icon": "🍌", "letter": "B" },
+        {  "fruit": "lemon", "icon": "🍋", "letter": "L" }
+        
+      ]
+    
+  }
