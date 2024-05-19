@@ -2,7 +2,7 @@ import shadow from '/images/shadow.svg';
 import cloud from '/images/cloud.svg';
 import monkeyhappy from '/images/monkeyhappy.svg';
 import start from '/images/start.svg';
-import { Button } from 'react-bootstrap';
+// import { Button } from 'react-bootstrap';
 
 
 interface NextButtonProps {

@@ -3,7 +3,7 @@ import backbutton from '/images/backbutton.svg';
 import monkeyhappy from '/images/monkeyhappy.svg';
 import shadow from '/images/shadow.svg';
 import cloud from '/images/cloud.svg';
-import { useState } from 'react';
+// import { useState } from 'react';
 
 interface Props  {
 onNextClick:()=>void;
@@ -12,7 +12,7 @@ onBackClick:()=>void;
 const Introcontwo:React.FC<Props> = (props) => {
 
 
-  const [isMoved, setIsMoved] = useState<boolean>(false);
+  // const [isMoved, setIsMoved] = useState<boolean>(false);
   // const [leftPosition, setLeftPosition] = useState<string>('50%');
 
   // const handleNextButtonClick = () => {
@@ -28,7 +28,7 @@ const Introcontwo:React.FC<Props> = (props) => {
 
 
 <div className="monkeycontainer">
-    <img src={monkeyhappy} alt="Monkey" className={`monkey ${isMoved ? 'monkeymovedup' : ''}`} style={{transform:"translateX(-30%)"}}  />
+    <img src={monkeyhappy} alt="Monkey" className="monkey" style={{transform:"translateX(-30%)"}}  />
     <div className='cloud'>
 
     <img src={cloud} alt="cloud" />

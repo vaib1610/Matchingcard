@@ -1,19 +1,19 @@
 
-import nextbutton from '/images/nextbutton.svg';
+// import nextbutton from '/images/nextbutton.svg';
 import backbutton from '/images/backbutton.svg';
 import redapplecard from '/images/redapplecard.svg';
 import redapplebackcard from '/images/redapplebackcard.svg';
 import number1 from '/images/number1.svg';
 import bluecard from '/images/bluecard.svg';
 import number2back from '/images/number2back.svg';
-import joiningcurve from '/images/joiningcurve.svg';
+// import joiningcurve from '/images/joiningcurve.svg';
 import number2text from '/images/number2text.svg';
 import redbluecard from '/images/redbluecard.svg';
 import number3 from '/images/number3.svg';
 import number3back from '/images/number3back.svg';
 import playbutton from '/images/playbutton.svg';
 import curve from '/images/curve.svg';
-import cardshadow from '/images/cardshadow.svg';
+// import cardshadow from '/images/cardshadow.svg';
 interface Props {
 onNextClick:()=>void;
 onBackClick:()=>void;
