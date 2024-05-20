@@ -4,7 +4,7 @@ import monkeyhappy from '/images/monkeyhappy.svg';
 import shadow from '/images/shadow.svg';
 import cloud from '/images/cloud.svg';
 import smallbanana from '/images/smallbanana.svg';
-import { useState } from 'react';
+// import { useState } from 'react';
 
 
 interface Props {
